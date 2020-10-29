@@ -1,6 +1,6 @@
 # AWS CDK WordPress HA
 
-##TODO:
+## TODO:
 EFS volume created must be attached manually!
 
 ## To Deploy Code:
@@ -19,7 +19,7 @@ cdk synth
 cdk deploy
 ```
 
-# To clean up:
+## To clean up:
 1. Run destroy command
 ```
 cdk destroy
